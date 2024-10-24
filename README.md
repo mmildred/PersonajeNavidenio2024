@@ -41,6 +41,19 @@ Sally - The nightmare before christmas
 
 ## Capturas de Evaluaciones de Curso de C.
 Capturas de pantalla de sus resultados de evaluaciones del curso de C.
+### Módulo 1
+![image](https://github.com/user-attachments/assets/4a5bf9b5-fee8-4844-8868-70216edc4b7f)
+### Módulo 2
+![image](https://github.com/user-attachments/assets/f44ff7bf-d481-47fe-8213-f783b3de7d14)
+### Módulo 3
+![image](https://github.com/user-attachments/assets/51bd972d-8307-428a-accd-0dc890b1335f)
+### Módulo 4
+![image](https://github.com/user-attachments/assets/db94ea21-924c-4922-ace7-c57747a48d76)
+### Módulo 5
+![image](https://github.com/user-attachments/assets/99107f5f-8fb8-4f31-bd13-ca336c9ba3a8)
+### Examen Final del curso
+![image](https://github.com/user-attachments/assets/363d8143-fc38-4ea5-a646-1aefe1dfad5e)
+
 
 ## Capturas de Evaluaciones de Curso de Python
 Capturas de pantalla de sus resultados de evaluaciones del curso de Python.

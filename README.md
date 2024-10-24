@@ -46,4 +46,13 @@ Capturas de pantalla de sus resultados de evaluaciones del curso de C.
 Capturas de pantalla de sus resultados de evaluaciones del curso de Python.
 ### Módulo 1
 ![image](https://github.com/user-attachments/assets/ea6ec42c-0c03-44a9-abcc-8a79047bd029)
+### Módulo 2
+![image](https://github.com/user-attachments/assets/95aebaa1-6171-4635-b409-1ba3ce681bc5)
+### Módulo 3
+![image](https://github.com/user-attachments/assets/33af5500-4493-4dae-a6c5-4073703b8799)
+### Módulo 4
+![image](https://github.com/user-attachments/assets/6ac10ca6-58ce-4b1c-a274-fa3d7685be32)
+
+
+
 

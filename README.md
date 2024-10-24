@@ -37,6 +37,8 @@ Sally - The nightmare before christmas
 
 
 ## Evaluación de Wokwi
+https://wokwi.com/projects/412665488360331265
+![image](https://github.com/user-attachments/assets/1cb23b8e-546b-4b84-b908-ade2a3411422)
 
 
 ## Capturas de Evaluaciones de Curso de C.

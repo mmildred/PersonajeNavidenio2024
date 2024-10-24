@@ -36,7 +36,7 @@ Sally - The nightmare before christmas
 |ThinkerCAD|||
 
 
-##Trabajo de Wokwi
+## Evaluación de Wokwi
 
 
 ## Capturas de Evaluaciones de Curso de C.
@@ -44,3 +44,6 @@ Capturas de pantalla de sus resultados de evaluaciones del curso de C.
 
 ## Capturas de Evaluaciones de Curso de Python
 Capturas de pantalla de sus resultados de evaluaciones del curso de Python.
+### Módulo 1
+![image](https://github.com/user-attachments/assets/ea6ec42c-0c03-44a9-abcc-8a79047bd029)
+

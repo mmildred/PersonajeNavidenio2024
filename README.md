@@ -4,6 +4,8 @@
 ## Nombre del personaje 
 
 Sally - The nightmare before christmas
+## Dibujo del Personaje (Prototipo)
+![image](https://github.com/user-attachments/assets/efc82025-4739-4d64-9a1b-d1deeecad3f5)
 
 ##  Nombre de los Integrantes
 
@@ -33,8 +35,6 @@ Sally - The nightmare before christmas
 |Node-RED|||
 |ThinkerCAD|||
 
-## Dibujo del Personaje (Prototipo)
-![image](https://github.com/user-attachments/assets/efc82025-4739-4d64-9a1b-d1deeecad3f5)
 
 ##Trabajo de Wokwi
 

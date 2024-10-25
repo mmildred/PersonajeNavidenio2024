@@ -37,6 +37,9 @@ Sally - The nightmare before christmas
 
 
 ## Evaluación de Wokwi
+### Video
+https://drive.google.com/file/d/1_deW_MdjohS0GKyiAF9stf3Vplj0IY-r/view?usp=sharing
+### Proyecto en wokwi
 https://wokwi.com/projects/412665488360331265
 ![image](https://github.com/user-attachments/assets/1cb23b8e-546b-4b84-b908-ade2a3411422)
 

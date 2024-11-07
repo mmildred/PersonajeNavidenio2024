@@ -43,6 +43,22 @@ https://drive.google.com/file/d/1_deW_MdjohS0GKyiAF9stf3Vplj0IY-r/view?usp=shari
 https://wokwi.com/projects/412665488360331265
 ![image](https://github.com/user-attachments/assets/1cb23b8e-546b-4b84-b908-ade2a3411422)
 
+## Evaluación Unidad 2
+### Ejercicio integral de la unidad:
+Alarma de Nivel de Agua con LED RGB, buzzer, OLED
+#### Descripción:
+Detecta el nivel de agua en un tanque y cambia el color del LED RGB según el nivel. Si el agua está demasiado alta o baja, suena una alarma y el nivel se muestra en la OLED.
+https://drive.google.com/drive/folders/1LypyIVtEL8QR7jGRBjFCEiuI9qTJFS1q?usp=sharing
+
+### Ejercicios en clase
+https://drive.google.com/drive/folders/19ODVty60cE3rFt8Tjpzg5sP5jQoNTWQE?usp=sharing
+
+### Avance proyecto navideño
+https://drive.google.com/drive/folders/1J7qj808Qa6c--ct7nMn1JPN8BAJP8Mon?usp=sharing
+
+### Coevaluación
+Mi compañero Marcos Ontiveros Nolasco, mostró un buen desempeño colaborando con los ejercicios en equipo, en especial el circuito final ya que mientras yo termina el codigo el me ayudaba con el circuitoy así respectivamente. Algunos aspectos que puedo decir que faltaron para mejorar fue la eficiencia de los ejercicios aunque fueron funcionales faltaron detalles a mejorar, así como mejora de actitud.
+
 
 ## Capturas de Evaluaciones de Curso de C.
 Capturas de pantalla de sus resultados de evaluaciones del curso de C.
@@ -56,7 +72,7 @@ Capturas de pantalla de sus resultados de evaluaciones del curso de C.
 ![image](https://github.com/user-attachments/assets/db94ea21-924c-4922-ace7-c57747a48d76)
 ### Módulo 5
 ![image](https://github.com/user-attachments/assets/99107f5f-8fb8-4f31-bd13-ca336c9ba3a8)
-### Examen Final del curso
+### Examen Final del curso C
 ![image](https://github.com/user-attachments/assets/363d8143-fc38-4ea5-a646-1aefe1dfad5e)
 
 
@@ -70,7 +86,8 @@ Capturas de pantalla de sus resultados de evaluaciones del curso de Python.
 ![image](https://github.com/user-attachments/assets/33af5500-4493-4dae-a6c5-4073703b8799)
 ### Módulo 4
 ![image](https://github.com/user-attachments/assets/6ac10ca6-58ce-4b1c-a274-fa3d7685be32)
-
-
+### Examen Final del curso Python
+![Captura de pantalla 2024-10-31 114710](https://github.com/user-attachments/assets/4aa11c18-cbf5-42df-895c-e6efcd7e5990)
+En mis proyectos de IoT, uno de los conceptos clave de Python que puedo aplicar es la programación modular. Al dividir el código en funciones y módulos, puedo organizar cada componente del sistema IoT de manera clara y reutilizable. Por ejemplo, en el proyecto con el ESP32, puedo crear una función específica para manejar la pantalla OLED, otra para controlar el movimiento de los servos y una más para gestionar las lecturas del sensor ultrasónico. Esto no solo mejora la legibilidad del código, sino que también facilita la depuración y futuras modificaciones al sistema, permitiéndome adaptar rápidamente el proyecto a nuevos requerimientos o agregar más dispositivos.
 
 

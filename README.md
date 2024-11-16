@@ -1,42 +1,59 @@
-# PERSONAJE NAVIDEÑO
-### GDS0643
+# PERSONAJE NAVIDEÑO  
+### GDS0643  
 
-## Nombre del personaje 
+---
 
-Sally - The nightmare before christmas
-## Dibujo del Personaje (Prototipo)
-![image](https://github.com/user-attachments/assets/efc82025-4739-4d64-9a1b-d1deeecad3f5)
+## Personaje  
 
-##  Nombre de los Integrantes
+| **Nombre**      | **Película**                      |
+|------------------|----------------------------------|
+| *Santa Claus*    | *The Nightmare Before Christmas*|
 
-| Nombres | Apellido Paterno | Apellido Materno |
-|--------|---|---|
-|Mildred Mariana|Banda|López|
+## Dibujo del Personaje (Prototipo)  
 
+![Santa Claus](https://github.com/user-attachments/assets/c5571cb6-d8cd-4942-9b5c-66c64d6d3f98)  
 
-## Materiales utilizados
-| Nombre | Descripción | Cantidad | Precio | Imágen |
-|--------|-------------|----------|--------|--------|
-|Esp32|Microcontrolador con 30 pines con comunicacion WIFI y Bluetooth|2|$150.00|![image](https://github.com/user-attachments/assets/df91d5da-c76c-42f4-945f-4bca62689af5)|
-|Cable dupont|Cables para conexion de prototipos de pruebas|50|$60.00|![image](https://github.com/user-attachments/assets/436e2323-a7d6-4ebb-9738-67a160eac871) |
-|Mini protoboard |Conexion de los componentes|1|$60.00|![image](https://github.com/user-attachments/assets/887b645c-5839-40fe-9063-896cccbda2d4)|
-|Servo motores|Proporciona movimiento|2|$80.00|![image](https://github.com/user-attachments/assets/1467f67f-0b62-4651-a259-4073f8d0f8d1)|
-|Luces LEDs |Iluminacion|6|$2.00|![image](https://github.com/user-attachments/assets/a3b6b46e-6fbc-4921-af9d-6e3cd34cd456)|
-|Cinta de aislar |Para unir los componentes (cables)|1|$50|![image](https://github.com/user-attachments/assets/1c87c2e6-8eb1-4960-ba99-a2c2fc5f7e1b)|
-|Pegamento|Adhesivo para ensamblar componentes y materiales|2|$22.00|![image](https://github.com/user-attachments/assets/86a029f4-7385-4a96-bdc4-d5ed4ad478ca)|
+---
 
+## Nombre de los Integrantes  
 
-## Software utilizado
-| Nombre | Versión | Tipo |
-|--------|---------|------|
-|Thonny|4.1.2|Software Libre|
-|Arduino IDE|2.3.2|Software Libre|
-|Fritzing|||
-|Node-RED|||
-|ThinkerCAD|||
+| **Nombre(s)**     | **Apellido Paterno** | **Apellido Materno** |
+|--------------------|----------------------|----------------------|
+| Mildred Mariana    | Banda               | López               |
+| Marcos             | Ontiveros           | Nolasco             |
 
+---
 
-## Evaluación de Wokwi
+## Materiales utilizados  
+
+| **Nombre**        | **Descripción**                                             | **Cantidad** | **Precio** | **Imagen** |
+|--------------------|------------------------------------------------------------|--------------|------------|------------|
+| ESP32              | Microcontrolador con 30 pines con comunicación WiFi y Bluetooth | 2           | $150.00    | ![image](https://github.com/user-attachments/assets/df91d5da-c76c-42f4-945f-4bca62689af5) |
+| Cable Dupont       | Cables para conexión de prototipos de prueba               | 50           | $80.00      | ![image](https://github.com/user-attachments/assets/436e2323-a7d6-4ebb-9738-67a160eac871) |
+| Mini Protoboard    | Conexión de los componentes                                | 1            | $30.00      | ![image](https://github.com/user-attachments/assets/887b645c-5839-40fe-9063-896cccbda2d4) |
+| Servo Motores      | Proporciona movimiento                                     | 2            | $60.00      | ![image](https://github.com/user-attachments/assets/f024ba11-8735-413d-9da7-b11111115ad5) |
+| Luces LEDs         | Iluminación                                                | 7            | $2.00       | ![image](https://github.com/user-attachments/assets/a3b6b46e-6fbc-4921-af9d-6e3cd34cd456) |
+| Luces RGB          | Iluminación                                                | 2            | $4.00       | ![image](https://github.com/user-attachments/assets/8d3a7e86-5953-46be-a734-4a0871d7b36a) |
+| Pantalla OLED      | Para mostrar un mensaje navideño                           | 1            | $60.00      | ![image](https://github.com/user-attachments/assets/d912c659-f4ae-4635-b2bc-da5b4c9b0b50) |
+| Resistencias       | Limita la corriente que fluye a través del LED             | 9            | $2.00       | ![image](https://github.com/user-attachments/assets/ae52fe1d-782b-45bd-a19f-835d76a035c4) |
+| Cinta de Aislar    | Para unir los componentes (cables)                         | 1            | $50.00      | ![image](https://github.com/user-attachments/assets/1c87c2e6-8eb1-4960-ba99-a2c2fc5f7e1b) |
+| Pegamento          | Adhesivo para ensamblar componentes y materiales           | 2            | $22.00      | ![image](https://github.com/user-attachments/assets/86a029f4-7385-4a96-bdc4-d5ed4ad478ca) |
+
+---
+
+## Software utilizado  
+
+| **Nombre**    | **Versión** | **Tipo**           |
+|---------------|-------------|--------------------|
+| Thonny        | 4.1.2       | Software Libre     |
+| Arduino IDE   | 2.3.2       | Software Libre     |
+| Fritzing      | 0.9.10      | Software Libre     |
+| Node-RED      | 3.0.2       | Software Libre     |
+| Tinkercad     | N/A         | Herramienta Online |
+
+---
+
+## Evaluación de Wokwi Unidad 1
 ### Video
 https://drive.google.com/file/d/1_deW_MdjohS0GKyiAF9stf3Vplj0IY-r/view?usp=sharing
 ### Proyecto en wokwi

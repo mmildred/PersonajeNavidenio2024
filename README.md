@@ -106,6 +106,9 @@ Mi compañero Marcos Ontiveros Nolasco, mostró un buen desempeño colaborando c
 ![Captura de pantalla 2024-10-31 114710](https://github.com/user-attachments/assets/4aa11c18-cbf5-42df-895c-e6efcd7e5990)
 En mis proyectos de IoT, uno de los conceptos clave de Python que puedo aplicar es la programación modular. Al dividir el código en funciones y módulos, puedo organizar cada componente del sistema IoT de manera clara y reutilizable. Por ejemplo, en el proyecto con el ESP32, puedo crear una función específica para manejar la pantalla OLED, otra para controlar el movimiento de los servos y una más para gestionar las lecturas del sensor ultrasónico. Esto no solo mejora la legibilidad del código, sino que también facilita la depuración y futuras modificaciones al sistema, permitiéndome adaptar rápidamente el proyecto a nuevos requerimientos o agregar más dispositivos.
 
+## Video demostrativo TikTok
+https://vm.tiktok.com/ZMkdmgDge/
+
 ## Capturas de Evaluaciones de Curso de JavaScript.
 ### Módulo 1
 ![image](https://github.com/user-attachments/assets/98c5d816-4dc1-4f3c-b42b-6c8582c0944b)

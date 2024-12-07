@@ -123,5 +123,6 @@ https://vm.tiktok.com/ZMkdmgDge/
 ### Módulo 6
 ![image](https://github.com/user-attachments/assets/c51c43e8-aa78-4fe9-8ef6-3ec35e17808c)
 ### Examen Final del curso JavaScript
+![image](https://github.com/user-attachments/assets/e8bb000e-e968-477e-a263-4329018a66a8)
 
 
